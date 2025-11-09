@@ -1,3 +1,16 @@
 {
-  "videos": []
+  "videos": [
+    {
+      "id": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "name": "esc",
+      "fileName": "1762680246143_1029_(1)(1)_209146533.mov",
+      "description": "",
+      "category": "short",
+      "url": "https://raw.githubusercontent.com/Priyanshu945628/videos-backend/main/videos/1762680246143_1029_(1)(1)_209146533.mov",
+      "size": 0,
+      "mimeType": "video/quicktime",
+      "thumbnailUrl": null,
+      "uploadedAt": "2025-11-09T09:24:08.734Z"
+    }
+  ]
 }
