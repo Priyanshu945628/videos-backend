@@ -1,14 +1,3 @@
 {
-  "videos": [
-    {
-      "id": "b78296851b57aa011df14a894c9a590da488d040",
-      "name": "zyx",
-      "fileName": "1762671577527_1029_(1)(1).mp4",
-      "description": "",
-      "url": "https://raw.githubusercontent.com/Priyanshu945628/videos-backend/main/videos/1762671577527_1029_(1)(1).mp4",
-      "size": 9201774,
-      "mimeType": "video/mp4",
-      "uploadedAt": "2025-11-09T07:00:01.006Z"
-    }
-  ]
+  "videos": []
 }
