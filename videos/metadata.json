@@ -1,3 +1,16 @@
 {
-  "videos": []
+  "videos": [
+    {
+      "id": "89843bf3731b7ec57a9ef7db0f3e7b8d5126cb87",
+      "name": "b",
+      "fileName": "1762755359657_screen_1761839398685.mp4",
+      "description": "",
+      "category": "short",
+      "url": "https://raw.githubusercontent.com/Priyanshu945628/videos-backend/main/videos/1762755359657_screen_1761839398685.mp4",
+      "size": 5247353,
+      "mimeType": "video/mp4",
+      "thumbnailUrl": null,
+      "uploadedAt": "2025-11-10T06:16:30.474Z"
+    }
+  ]
 }
