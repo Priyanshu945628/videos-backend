@@ -1,3 +1,13 @@
 {
-  "videos": []
+  "videos": [
+    {
+      "id": "1762763610390",
+      "fileName": "1762763565090_screen_1761839398685.mp4",
+      "url": "https://raw.githubusercontent.com/Priyanshu945628/videos-backend/main/videos/1762763565090_screen_1761839398685.mp4",
+      "title": "screen_1761839398685.mp4",
+      "description": "",
+      "category": "general",
+      "uploadedAt": "2025-11-10T08:33:30.390Z"
+    }
+  ]
 }
