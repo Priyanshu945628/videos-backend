@@ -4,10 +4,25 @@
       "id": "1762964302130",
       "fileName": "1762964274012_1029 (1)(1).mp4",
       "url": "https://raw.githubusercontent.com/Priyanshu945628/videos-backend/main/videos/1762964274012_1029 (1)(1).mp4",
-      "title": "motion graphics #1",
+      "title": "motion graphics (video #1)",
       "description": "",
       "category": "motion",
       "aspectRatio": "landscape",
+      "uploadedAt": "2025-11-12T16:18:22.130Z"
+    }
+  ]
+}
+
+{
+  "videos": [
+    {
+      "id": "17629643021",
+      "fileName": "1002 (1).mp4",
+      "url": "https://github.com/Priyanshu945628/videos-backend/blob/main/videos/1002%20(1).mp4",
+      "title": "general edit (video #2)",
+      "description": "",
+      "category": "short",
+      "aspectRatio": "Portrait",
       "uploadedAt": "2025-11-12T16:18:22.130Z"
     }
   ]
