@@ -1,3 +1,14 @@
 {
-  "videos": []
+  "videos": [
+    {
+      "id": "1762964302130",
+      "fileName": "1762964274012_1029 (1)(1).mp4",
+      "url": "https://raw.githubusercontent.com/Priyanshu945628/videos-backend/main/videos/1762964274012_1029 (1)(1).mp4",
+      "title": "motion graphics #1",
+      "description": "",
+      "category": "motion",
+      "aspectRatio": "landscape",
+      "uploadedAt": "2025-11-12T16:18:22.130Z"
+    }
+  ]
 }
